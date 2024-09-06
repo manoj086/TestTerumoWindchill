@@ -17,6 +17,6 @@ jobs:
         with:
           args: >
               -Dsonar.organization=manoj086
-              -Dsonar.projectKey=TerumoBCTWindchill
+              -Dsonar.projectKey=TestTerumoWindchill
               -Dsonar.python.coverage.reportPaths=coverage.xml
               -Dsonar.java.binaries=bin
